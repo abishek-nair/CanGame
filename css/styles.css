@@ -1,0 +1,17 @@
+body {
+    padding: 50px;
+    background-color: #FFFFFF;
+}
+
+div.gameContainer {
+    width: 100%;
+}
+
+canvas.gameCanvas {
+    border: 5px solid #16a085;
+    border-bottom-color: #e67e22;
+    border-radius: 5px;
+    background-color: #34495e;
+    display: block;
+    margin: 0 auto;
+}
